@@ -1,6 +1,6 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A dedicated QA Engineer with over 4 years of experience in software testing, specializing in test automation, test planning, and ensuring the delivery of high-quality applications. Proficient in both manual and automated testing across multiple environments, with expertise in test tools and frameworks.
+  <samp>A dedicated QA Engineer with over 5+ years of experience in software testing, specializing in test automation, test planning, and ensuring the delivery of high-quality applications. Proficient in both manual and automated testing across multiple environments, with expertise in test tools and frameworks.
   </samp>
   <br> <br>
   <img src="https://img.shields.io/badge/Top%201%25-Contributor-brightgreen" alt="https://github.com/UzaeirAzhar" />
